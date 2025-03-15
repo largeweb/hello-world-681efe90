@@ -1,0 +1,1 @@
+I need the tracker information first, which will describe the project, the file structure, the purpose of each component, etc. Please provide the complete validated tracker in XML format so I can generate the code for `src/app/page.tsx`.
